@@ -1,7 +1,7 @@
 # HelloMochii
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C2CF,100:D6718A&height=150&section=header&text=Hello!!%2C%20I'm%20Mochii&fontSize=38&fontColor=ffffff&fontAlignY=40" alt="Hello Mochii" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C2CF,100:D6718A&height=150&section=header&text=Hello!!%2C%20I%20Mochii&fontSize=38&fontColor=ffffff&fontAlignY=40" alt="Hello Mochii" />
 
 ** Student building AI, data and backend projects**
 Learning by building, one project at a time.
